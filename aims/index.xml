@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aims-rsses on Neu3CA</title>
-    <link>http://95.85.33.21/aims/index.xml</link>
+    <link>https://neu3ca.github.io/aims/index.xml</link>
     <description>Recent content in Aims-rsses on Neu3CA</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Neu3CA, 2016 </copyright>
     <lastBuildDate>Mon, 03 Oct 2016 15:50:58 +0200</lastBuildDate>
-    <atom:link href="http://95.85.33.21/aims/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://neu3ca.github.io/aims/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The aims of Neu&lt;sup&gt;3&lt;/sup&gt;CA</title>
-      <link>http://95.85.33.21/aims/aims/</link>
+      <link>https://neu3ca.github.io/aims/aims/</link>
       <pubDate>Mon, 03 Oct 2016 15:50:58 +0200</pubDate>
       
-      <guid>http://95.85.33.21/aims/aims/</guid>
+      <guid>https://neu3ca.github.io/aims/aims/</guid>
       <description>
 
 &lt;h3 id=&#34;research-and-innovation-aims&#34;&gt;Research and innovation aims&lt;/h3&gt;
 
-&lt;p&gt;&lt;img class=&#34;left&#34; src=&#34;http://95.85.33.21/img/epi_aging_cogn.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 500px;&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;left&#34; src=&#34;https://neu3ca.github.io/img/epi_aging_cogn.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 500px;&#34;/&gt;&lt;/p&gt;
 
-&lt;p&gt;The aim of &lt;a href=&#34;http://95.85.33.21/background/neu3ca&#34;&gt;Neu&lt;sup&gt;3&lt;/sup&gt;CA&lt;/a&gt; is to study cognitive ageing. For this we use &lt;a href=&#34;http://95.85.33.21/background/epilepsy&#34;&gt;epilepsy&lt;/a&gt; as a model, since some epilepsy patients suffer from &lt;a href=&#34;http://95.85.33.21/background/ACA&#34;&gt;accelerated cognitive aging&lt;/a&gt;. But also in other brain conditions such as stroke or depression, cognitive impairments occur. Our goal is to find biomarkers that allow alerting for the development of pathological time courses of ageing.&lt;/p&gt;
+&lt;p&gt;The aim of &lt;a href=&#34;https://neu3ca.github.io/background/neu3ca&#34;&gt;Neu&lt;sup&gt;3&lt;/sup&gt;CA&lt;/a&gt; is to study cognitive ageing. For this we use &lt;a href=&#34;https://neu3ca.github.io/background/epilepsy&#34;&gt;epilepsy&lt;/a&gt; as a model, since some epilepsy patients suffer from &lt;a href=&#34;https://neu3ca.github.io/background/ACA&#34;&gt;accelerated cognitive aging&lt;/a&gt;. But also in other brain conditions such as stroke or depression, cognitive impairments occur. Our goal is to find biomarkers that allow alerting for the development of pathological time courses of ageing.&lt;/p&gt;
 
-&lt;p&gt;A second, equally important, aim is to find effective interventions. Non-invasive and smart &lt;a href=&#34;http://95.85.33.21/background/neuromodulation&#34;&gt;neuromodulation&lt;/a&gt; modalities may be very promising to modulate cognitive &lt;a href=&#34;http://95.85.33.21/background/neuronal_networks&#34;&gt;neuronal networks&lt;/a&gt;. Recent neuroimaging studies demonstrate new avenues of plasticity also in the ageing brain. These studies have recast our framework around cognitive ageing from one of decline to one emphasizing brain plasticity. A key finding in ageing in general and in epilepsy-induced accelerated cognitive ageing in particular is that especially fluid functions (and not the higher order cognitive functions) may be compromised. As fluid functions are susceptible to decline, they may also be changed for the good, in an interventional or treatment context.&lt;/p&gt;
+&lt;p&gt;A second, equally important, aim is to find effective interventions. Non-invasive and smart &lt;a href=&#34;https://neu3ca.github.io/background/neuromodulation&#34;&gt;neuromodulation&lt;/a&gt; modalities may be very promising to modulate cognitive &lt;a href=&#34;https://neu3ca.github.io/background/neuronal_networks&#34;&gt;neuronal networks&lt;/a&gt;. Recent neuroimaging studies demonstrate new avenues of plasticity also in the ageing brain. These studies have recast our framework around cognitive ageing from one of decline to one emphasizing brain plasticity. A key finding in ageing in general and in epilepsy-induced accelerated cognitive ageing in particular is that especially fluid functions (and not the higher order cognitive functions) may be compromised. As fluid functions are susceptible to decline, they may also be changed for the good, in an interventional or treatment context.&lt;/p&gt;
 
-&lt;p&gt;The technical challenges that &lt;a href=&#34;http://95.85.33.21/background/neu3ca&#34;&gt;Neu&lt;sup&gt;3&lt;/sup&gt;CA&lt;/a&gt; aims to tackle are related to developing newer and more &lt;a href=&#34;http://95.85.33.21/background/MRI&#34;&gt;advanced structural and functional neuroimaging methods&lt;/a&gt; for cognitive &lt;a href=&#34;http://95.85.33.21/background/neuronal_networks&#34;&gt;brain network&lt;/a&gt; imaging, to get a better understanding of how &lt;a href=&#34;http://95.85.33.21/background/neuronal_networks&#34;&gt;neuronal networks&lt;/a&gt; work, and to develop &lt;a href=&#34;http://95.85.33.21/background/neurostimulation&#34;&gt;neurostimulation&lt;/a&gt;-based interventions.&lt;/p&gt;
+&lt;p&gt;The technical challenges that &lt;a href=&#34;https://neu3ca.github.io/background/neu3ca&#34;&gt;Neu&lt;sup&gt;3&lt;/sup&gt;CA&lt;/a&gt; aims to tackle are related to developing newer and more &lt;a href=&#34;https://neu3ca.github.io/background/MRI&#34;&gt;advanced structural and functional neuroimaging methods&lt;/a&gt; for cognitive &lt;a href=&#34;https://neu3ca.github.io/background/neuronal_networks&#34;&gt;brain network&lt;/a&gt; imaging, to get a better understanding of how &lt;a href=&#34;https://neu3ca.github.io/background/neuronal_networks&#34;&gt;neuronal networks&lt;/a&gt; work, and to develop &lt;a href=&#34;https://neu3ca.github.io/background/neurostimulation&#34;&gt;neurostimulation&lt;/a&gt;-based interventions.&lt;/p&gt;
 </description>
     </item>
     

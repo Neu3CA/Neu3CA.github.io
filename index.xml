@@ -2,59 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neu3CA</title>
-    <link>http://95.85.33.21/index.xml</link>
+    <link>https://neu3ca.github.io/index.xml</link>
     <description>Recent content on Neu3CA</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Neu3CA, 2016 </copyright>
-    <lastBuildDate>Mon, 12 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://95.85.33.21/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://neu3ca.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Chris Baeken</title>
+      <link>https://neu3ca.github.io/member/chrisbaeken/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://neu3ca.github.io/member/chrisbaeken/</guid>
+      <description>&lt;p&gt;As a psychiatrist, prof dr Chris Baekens main interests are within the neurobiological field of Affective Disorders. To gain more insight in the underlying mechanisms of emotional brain processes in the ‘healthy’ as well as in the ‘mentally affected’ human brain, brain-imaging paradigms (MRI, fMRI, (S)PET,….) are used with or without the combination of neuromodulation techniques, such as rTMS and tDCS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lisanne Canjels</title>
+      <link>https://neu3ca.github.io/member/lisannecanjels/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://neu3ca.github.io/member/lisannecanjels/</guid>
+      <description>&lt;p&gt;Lisanne Canjels studied Biomedical Engineering at the Eindhoven University of Technology. During the master program, she went to Boston for a six-month internship at the MGH/HST Martinos Center for Biomedical Engineering in the PET-MRI lab headed by Dr. Catana. During her graduation project she collaborated with the UMC Utrecht. These projects triggered her interest in MRI research. In December 2016, she started a PhD project at the Radiology department of Maastricht UMC studying post-stroke epilepsy using high field (7T) MRI.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Charlotte Germonpré</title>
-      <link>http://95.85.33.21/member/charlotte/</link>
+      <link>https://neu3ca.github.io/member/charlotte/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/member/charlotte/</guid>
+      <guid>https://neu3ca.github.io/member/charlotte/</guid>
       <description>&lt;p&gt;Short bio&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Marijke Miatton</title>
-      <link>http://95.85.33.21/member/marijke/</link>
+      <link>https://neu3ca.github.io/member/marijke/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/member/marijke/</guid>
-      <description>&lt;p&gt;Short bio&lt;/p&gt;
+      <guid>https://neu3ca.github.io/member/marijke/</guid>
+      <description>&lt;p&gt;In 2001, Marijke Miatton started her career as an assistant at the Faculty of Medicine and Health Sciences at the Ghent University. In 2007 she fulfilled a PhD thesis on the topic “Neuropsychological functioning of children with a surgically corrected congenital heart defect” in collaboration with the Pediatric Department, Prof. D. De Wolf and Dr. K. François.&lt;/p&gt;
+
+&lt;p&gt;From 2008-2010 she worked as a post doctoral researcher at the Ghent University, Department of Internal Sciences. Since 2010, she is a full time psychologist at the Neurology Department of the Ghent University Hospital.&lt;/p&gt;
+
+&lt;p&gt;She combines clinical work with research activities and since the majority of patients were provided by the Neurology Department of the Ghent University Hospital, she started to focus on neuropsychological functioning in patients with epilepsy and neurodegenerative disorders. Together with the Reference Center for Refractory Epilepsy and the Laboratory for Clinical and Experimental Neurophysiology, Neurobiology and Neuropsychology (LCEN-3), we investigated the effects of deep brain stimulation on the neuropsychological functioning of patients with refractory epilepsy with.&lt;/p&gt;
+
+&lt;p&gt;Together with Prof. Helmstaedter from the University Clinic of Bonn, Marijke was responsible for the neuropsychological part of the international collaboration between the universities of Gent, Bonn and Freiburg on the study “Controlled Randomized Stimulation versus Resection”, a prospective randomized controlled study of neurostimulation in the medial temporal lobe for patients with medically refractory medial temporal lobe epilepsy. Further, we have a good working collaboration with Prof. Dr. Aldenkamp and Dr. M. Hendriks of the Expertise Centrum Epilepsy, Sleep Disorders and Neurocognition from Kempenhaeghe, Heeze.&lt;/p&gt;
+
+&lt;p&gt;We further focus on the concordance of biomarkers and neuropsychological functioning in collaboration with Dr. A. Sieben en Dr. T. Van Langenhove neurologists with expertise in neurodegenerative disorders.&lt;/p&gt;
+
+&lt;p&gt;Marijke was also co-founder of Parkinson Zorgwijzer Vlaanderen, a initiative that strives for qualitatively better care for patients with Parkinson’s disease by providing specialized education to health care providers in Belgium. Marijke is a member of the Paramedic Board of the Belgian Stroke Council.&lt;/p&gt;
+
+&lt;p&gt;At last, she is a postdoctoral volunteer and is promoter of students for the faculties of Health Science, Medicine and Psychology in their scientific and clinical work on several neurological topics.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robrecht Raedt</title>
-      <link>http://95.85.33.21/member/robrecht/</link>
+      <link>https://neu3ca.github.io/member/robrecht/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/member/robrecht/</guid>
+      <guid>https://neu3ca.github.io/member/robrecht/</guid>
       <description>&lt;p&gt;Short bio&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Veerle de Herdt</title>
-      <link>http://95.85.33.21/member/veerle/</link>
+      <link>https://neu3ca.github.io/member/veerle/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/member/veerle/</guid>
+      <guid>https://neu3ca.github.io/member/veerle/</guid>
       <description>&lt;p&gt;Short bio&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Accelerated cognitive aging</title>
-      <link>http://95.85.33.21/background/ACA/</link>
+      <link>https://neu3ca.github.io/background/ACA/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/background/ACA/</guid>
+      <guid>https://neu3ca.github.io/background/ACA/</guid>
       <description>
 
 &lt;h3 id=&#34;accelerated-cognitive-aging&#34;&gt;Accelerated cognitive aging&lt;/h3&gt;
@@ -69,7 +101,7 @@
 
 &lt;p&gt;Cognitive deterioration in this group develops in a stepwise ‘second hit model’ when epilepsy affects an already vulnerable brain. The model predicts loss of cognitive reserve capacity due to e.g. traumatic brain injury (TBI) or old age leading to a cascade of events after a second hit, i.e. epilepsy. Processes of ageing may be accelerated due to this loss of brain plasticity and cognitive reserve capacity for which we coin the term ‘Accelerated Cognitive Ageing’.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;centered&#34; src=&#34;http://95.85.33.21/img/ACAtrajectory.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 1000px;&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;centered&#34; src=&#34;https://neu3ca.github.io/img/ACAtrajectory.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 1000px;&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Graphical representation of Accelerated Cognitive Ageing. The dashed blue line represents the cognitive ageing trajectory without pathology. With increasing age, cognitive functioning is declining until the minimal cognitive threshold is reached. Two alternative cognitive ageing trajectories are shown. The yellow line depicts the cognitive trajectory after one hit (e.g. TBI). There is decline in cognitive function which recovers. Recovery is, however, not complete and results in a loss of functional reserve. This is followed by a normal rate of subsequent ageing. The solid red line represents Accelerated Cognitive Ageing in the second-hit model. After a second hit (e.g. epilepsy), cascadic deterioration takes place and does not recover due to the diminished cognitive reserve capacity. In combination and interaction with the expected changes of normal ageing, cognitive ageing is accelerated and the patient’s cognitive profile resembles that of an older individual. Published in: Breuer et al., 2016&lt;/em&gt;&lt;/p&gt;
 
@@ -80,21 +112,25 @@
     </item>
     
     <item>
-      <title>Peter de With</title>
-      <link>http://95.85.33.21/member/peter/</link>
+      <title>Peter H. N. de With</title>
+      <link>https://neu3ca.github.io/member/peter/</link>
       <pubDate>Mon, 05 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/member/peter/</guid>
-      <description>&lt;p&gt;Peter de With is professor at the Electrical Engineering department of TU/e and heads the Video Coding and Analysis (VCA) group. He als is Program Director Smart Diagnosis, Strategic Area Health at TU/e and director of the Center for Care &amp;amp; Cure Technologies (C3Te) in Electrical Engineering.&lt;/p&gt;
+      <guid>https://neu3ca.github.io/member/peter/</guid>
+      <description>&lt;p&gt;Peter H.N. de With (Fellow of IEEE) received his PhD degree from the University of Technology Delft, the Netherlands. In 1984-1997, he worked for Philips Research Eindhoven on video compression and chaired a cluster for programmable TV architectures as senior TV Systems Architect. In 1997-2000, he was full professor at the University of Mannheim, Germany, Computer Engineering, and chair of Digital Circuitry and Simulation. In 2000-2007, he was with LogicaCMG in Eindhoven as a principal consultant Technical SW and distinguished business consultant. He was also part-time professor at the TU/e, heading the chair on Video Coding and Architectures. In 2008-2010, he was VP Video (Analysis) Technology at Cyclomedia Technology. Since 2011, he has is full professor at Eindhoven University of Technology and appointed scientific director Care and Cure Technology and theme leader Smart Diagnosis and later Participatory Health in the TU/e Strategic Area Health program.&lt;/p&gt;
+
+&lt;p&gt;He has set up an image analysis program with multiple regional and national hospitals for forms of oncology detection analysis, of which esophageal cancer detection  projects became of breakthrough nature and of leading international quality.  He is also international expert in video surveillance for safety and security and has been involved in multiple EU projects on video analysis, object and behavior recognition, and in surveillance projects with the Harbor of Rotterdam, Dutch Defense, Bosch Security Systems, TKH-Security, etc. He is board member of DITSS and R&amp;amp;D advisor to multiple companies.&lt;/p&gt;
+
+&lt;p&gt;He is Fellow of the IEEE, has (co-)authored over 300 papers on video coding, analysis, architectures, 3D processing and their realization. He is (co-) recipient of multiple papers awards of the IEEE CES, VCIP and Transactions papers and Eurasip award.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Regina Luttge</title>
-      <link>http://95.85.33.21/member/regina/</link>
+      <link>https://neu3ca.github.io/member/regina/</link>
       <pubDate>Mon, 05 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/member/regina/</guid>
+      <guid>https://neu3ca.github.io/member/regina/</guid>
       <description>&lt;p&gt;Luttge studied Applied Sciences in Germany (1989-1993). She had been working as an engineering researcher at Institut für Mikrotechnik in Mainz, Germany, for nearly 5 years prior to starting her PhD studies in Microsystems Technologies at Imperial College in 1999, London, UK. In 2003, Luttge was awarded a PhD from University of London on the development of fabrication technology for micro-optical scanners. Switching her research interest  to microfluidics applications, Luttge had been working for 12 years at University of Twente’s MESA+ Institute for Nanotechnology, The Netherlands, first as a senior scientist and since 2007 as an assistant professor prior to joining TU/e. Based on her established scientific profile in Nanoengineering for Medicine and Biology, Luttge has been appointed associate professor in the Microsystems Group at the Department of Mechanical Engineering in June 2013.&lt;/p&gt;
 
 &lt;p&gt;She is the head of the Brain-on-a-Chip project, which is part of the Organ-on-a-Chip program at the department of Mechanical Engineering.&lt;/p&gt;
@@ -103,30 +139,30 @@
     
     <item>
       <title>Rob Rouhl</title>
-      <link>http://95.85.33.21/member/robrouhl/</link>
+      <link>https://neu3ca.github.io/member/robrouhl/</link>
       <pubDate>Mon, 05 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/member/robrouhl/</guid>
-      <description>&lt;p&gt;Prof Rob Rouhl is a neurologist with a special interest in symptomatic epilepsy (i.e. in which an epileptic focus can be found). He is also interested in treating epilepsy using deep brain stimulation.&lt;/p&gt;
+      <guid>https://neu3ca.github.io/member/robrouhl/</guid>
+      <description>&lt;p&gt;Starting from his appointment in 2012 as a neurologist in the Maastricht University Medical Center+, Rob Rouhl focussed on epilepsy. His research interests are the new diagnostic and therapeutic possibilities for patients with epilepsy. As such he is involved in the deep brain stimulation for epilepsy and epilepsy surgery program of the Academic Center for Epileptology, a cooperation between MUMC+ and Kempenhaeghe. His research in the diagnostic spectrum includes new techniques like whole exome sequencing and auto-antibody testing. In his clinical research line post-stroke epilepsy is one of the points of gravity. He is an active board member of the Dutch League against Epilepsy, and of the Scientific Section of this League.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Wytse Wadman</title>
-      <link>http://95.85.33.21/member/wytse/</link>
+      <link>https://neu3ca.github.io/member/wytse/</link>
       <pubDate>Mon, 05 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/member/wytse/</guid>
+      <guid>https://neu3ca.github.io/member/wytse/</guid>
       <description>&lt;p&gt;Wytse Wadman studied experimental physics in Utrecht, Delft, and London, and has a PhD on human motor system control. After post-docs in München, Israel and the USA, he works since 1989 as a professor of Neuroscience at the University of Amsterdam. Since 2005, he is also guest professor at the Faculty of Medicine in Ghent. His research group performs fundamental research of brain processes related to learning and memory, and diseases such as epilpesy, schizophrenia and Alzheimer&amp;rsquo;s disease. Besides that, computational models are being developed and collaborations with industrial partners are maintained.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Accelerated cognitive aging</title>
-      <link>http://95.85.33.21/background/ACA_old/</link>
+      <link>https://neu3ca.github.io/background/ACA_old/</link>
       <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/background/ACA_old/</guid>
+      <guid>https://neu3ca.github.io/background/ACA_old/</guid>
       <description>
 
 &lt;h3 id=&#34;accelerated-cognitive-aging&#34;&gt;Accelerated cognitive aging&lt;/h3&gt;
@@ -142,11 +178,20 @@
     </item>
     
     <item>
+      <title>A prestimulation evaluation protocol for patients with drug resistant epilepsy.</title>
+      <link>https://neu3ca.github.io/publication/Carrette_Seizure_2016/</link>
+      <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://neu3ca.github.io/publication/Carrette_Seizure_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data-mining and graph analysis of EEG data</title>
-      <link>http://95.85.33.21/project/EEG_graph_datamining/</link>
+      <link>https://neu3ca.github.io/project/EEG_graph_datamining/</link>
       <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/project/EEG_graph_datamining/</guid>
+      <guid>https://neu3ca.github.io/project/EEG_graph_datamining/</guid>
       <description>&lt;p&gt;In this project, the human brain is represented as a complex network, where brain regions are the nodes of that network and weighted links between each two nodes shows their synchronization and communication frequency. For this purpose, EEG or MEG are used for measuring the activity of different brain regions. For quantifying the relationship between the brain regions, there are a lot of synchronization measures that can be chosen; with the help of those measurements, the functional brain network can be constructed and then modern network science offers a lot of tools to analyze the brain and finding/localizing differences between patients and healthy control.&lt;/p&gt;
 
 &lt;p&gt;Having robustly extracted the network structure from the data, the next step of this project is to combine network theoretical analysis with data mining and machine learning tools, in order to classify and cluster healthy brain connectivity patterns and brain patterns with some disorders. This may be used for sub-categorization of certain diseases (such as epilepsy), which may be relevant to develop tailored treatments.&lt;/p&gt;
@@ -157,42 +202,12 @@
     
     <item>
       <title>High field MRI in post-stroke epilepsy</title>
-      <link>http://95.85.33.21/project/highFieldPostStroke/</link>
+      <link>https://neu3ca.github.io/project/highFieldPostStroke/</link>
       <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/project/highFieldPostStroke/</guid>
+      <guid>https://neu3ca.github.io/project/highFieldPostStroke/</guid>
       <description>&lt;p&gt;7T post-stroke epilepsy project; description by Rob Rouhl&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Interview Bert and René</title>
-      <link>http://95.85.33.21/post/interview_BA_RB/</link>
-      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://95.85.33.21/post/interview_BA_RB/</guid>
-      <description>&lt;p&gt;Check out the image below or the &lt;a href=&#34;http://95.85.33.21/Neu3CA_ED_04112016.pdf&#34;&gt;pdf&lt;/a&gt; of the interview with &lt;a href=&#34;http://95.85.33.21/member/bert&#34;&gt;Bert&lt;/a&gt; and &lt;a href=&#34;http://95.85.33.21/member/rene&#34;&gt;René&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;centered&#34; src=&#34;http://95.85.33.21/img/Neu3CA_ED_04112016.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 1000px;&#34;/&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Altered neurotransmitter metabolism in adolescents with high-functioning autism</title>
-      <link>http://95.85.33.21/publication/Drenthen_Neurotrans_ASD_oct2016/</link>
-      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://95.85.33.21/publication/Drenthen_Neurotrans_ASD_oct2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cognitive deterioration in adult epilepsy: clinical characteristics of Accelerated Cognitive Ageing</title>
-      <link>http://95.85.33.21/publication/Breuer_ACA_neuropsy_oct2016/</link>
-      <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://95.85.33.21/publication/Breuer_ACA_neuropsy_oct2016/</guid>
-      <description></description>
     </item>
     
   </channel>

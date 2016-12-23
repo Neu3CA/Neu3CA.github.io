@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project-rsses on Neu3CA</title>
-    <link>http://95.85.33.21/project/index.xml</link>
+    <link>https://neu3ca.github.io/project/index.xml</link>
     <description>Recent content in Project-rsses on Neu3CA</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Neu3CA, 2016 </copyright>
     <lastBuildDate>Tue, 15 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://95.85.33.21/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://neu3ca.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Data-mining and graph analysis of EEG data</title>
-      <link>http://95.85.33.21/project/EEG_graph_datamining/</link>
+      <link>https://neu3ca.github.io/project/EEG_graph_datamining/</link>
       <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/project/EEG_graph_datamining/</guid>
+      <guid>https://neu3ca.github.io/project/EEG_graph_datamining/</guid>
       <description>&lt;p&gt;In this project, the human brain is represented as a complex network, where brain regions are the nodes of that network and weighted links between each two nodes shows their synchronization and communication frequency. For this purpose, EEG or MEG are used for measuring the activity of different brain regions. For quantifying the relationship between the brain regions, there are a lot of synchronization measures that can be chosen; with the help of those measurements, the functional brain network can be constructed and then modern network science offers a lot of tools to analyze the brain and finding/localizing differences between patients and healthy control.&lt;/p&gt;
 
 &lt;p&gt;Having robustly extracted the network structure from the data, the next step of this project is to combine network theoretical analysis with data mining and machine learning tools, in order to classify and cluster healthy brain connectivity patterns and brain patterns with some disorders. This may be used for sub-categorization of certain diseases (such as epilepsy), which may be relevant to develop tailored treatments.&lt;/p&gt;
@@ -25,20 +25,20 @@
     
     <item>
       <title>High field MRI in post-stroke epilepsy</title>
-      <link>http://95.85.33.21/project/highFieldPostStroke/</link>
+      <link>https://neu3ca.github.io/project/highFieldPostStroke/</link>
       <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/project/highFieldPostStroke/</guid>
+      <guid>https://neu3ca.github.io/project/highFieldPostStroke/</guid>
       <description>&lt;p&gt;7T post-stroke epilepsy project; description by Rob Rouhl&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Clinical prospective study of accelerated cognitive ageing</title>
-      <link>http://95.85.33.21/project/clinicalprospectiveACA/</link>
+      <link>https://neu3ca.github.io/project/clinicalprospectiveACA/</link>
       <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
       
-      <guid>http://95.85.33.21/project/clinicalprospectiveACA/</guid>
+      <guid>https://neu3ca.github.io/project/clinicalprospectiveACA/</guid>
       <description>
 
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>EEG-fMRI coupling</title>
-      <link>http://95.85.33.21/project/EEGfMRI_consequetive/</link>
+      <link>https://neu3ca.github.io/project/EEGfMRI_consequetive/</link>
       <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
       
-      <guid>http://95.85.33.21/project/EEGfMRI_consequetive/</guid>
+      <guid>https://neu3ca.github.io/project/EEGfMRI_consequetive/</guid>
       <description>
 
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
@@ -63,10 +63,10 @@
     
     <item>
       <title>MACA-E</title>
-      <link>http://95.85.33.21/project/MACAe/</link>
+      <link>https://neu3ca.github.io/project/MACAe/</link>
       <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
       
-      <guid>http://95.85.33.21/project/MACAe/</guid>
+      <guid>https://neu3ca.github.io/project/MACAe/</guid>
       <description>
 
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
@@ -111,19 +111,19 @@ have on neuropsychological and MRI outcome?&lt;/li&gt;
     
     <item>
       <title>Real-time fMRI neurofeedback</title>
-      <link>http://95.85.33.21/project/rtfMRINF/</link>
+      <link>https://neu3ca.github.io/project/rtfMRINF/</link>
       <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
       
-      <guid>http://95.85.33.21/project/rtfMRINF/</guid>
+      <guid>https://neu3ca.github.io/project/rtfMRINF/</guid>
       <description>
 
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
 
-&lt;p&gt;A special application of &lt;a href=&#34;http://95.85.33.21/background/MRI&#34;&gt;functional MRI&lt;/a&gt; is real-time fMRI neurofeedback (rt-fMRI-NF). In this modality, fMRI is used to access brain activity while the subject is in the scanner, and a certain measure of brain activity is presented back to the subject. The idea is that if a subject is aware of his/her ongoing brain activity, he/she can be trained to influence it. Although not in routine clinical practice, encouraging results have been obtained with rt-fMRI-NF. For example, certain cases of depression are characterized by reduced left amygdala activity. Using rt-fMRI-NF, depressed subjects can be trained to upregulate left amygdala activity, and their clinical symptoms improve.&lt;/p&gt;
+&lt;p&gt;A special application of &lt;a href=&#34;https://neu3ca.github.io/background/MRI&#34;&gt;functional MRI&lt;/a&gt; is real-time fMRI neurofeedback (rt-fMRI-NF). In this modality, fMRI is used to access brain activity while the subject is in the scanner, and a certain measure of brain activity is presented back to the subject. The idea is that if a subject is aware of his/her ongoing brain activity, he/she can be trained to influence it. Although not in routine clinical practice, encouraging results have been obtained with rt-fMRI-NF. For example, certain cases of depression are characterized by reduced left amygdala activity. Using rt-fMRI-NF, depressed subjects can be trained to upregulate left amygdala activity, and their clinical symptoms improve.&lt;/p&gt;
 
 &lt;h2 id=&#34;research-challenges&#34;&gt;Research challenges&lt;/h2&gt;
 
-&lt;p&gt;Within the &lt;a href=&#34;http://95.85.33.21/background/neu3ca&#34;&gt;Neu&lt;sup&gt;3&lt;/sup&gt;ca program&lt;/a&gt;  we are investigating rt-fMRI-NF as a way to mitigate cognitive impairment in &lt;a href=&#34;http://95.85.33.21/background/epilepsy&#34;&gt;epilepsy&lt;/a&gt;. Since complex brain functions such as cognition are typically mediated by brain networks (and not single regions), this includes implementing &lt;strong&gt;rt-fMRI-NF for networks&lt;/strong&gt; rather than stand-alone regions. Furthermore, we are looking for &lt;strong&gt;biomarkers of functional network impairment&lt;/strong&gt; that may be exploit for rt-fMRI-NF. Having identified these, they may be used to provide neurofeedback and to study the resulting &lt;strong&gt;changes in functional network organization&lt;/strong&gt; and &lt;strong&gt;clinical outcome&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Within the &lt;a href=&#34;https://neu3ca.github.io/background/neu3ca&#34;&gt;Neu&lt;sup&gt;3&lt;/sup&gt;ca program&lt;/a&gt;  we are investigating rt-fMRI-NF as a way to mitigate cognitive impairment in &lt;a href=&#34;https://neu3ca.github.io/background/epilepsy&#34;&gt;epilepsy&lt;/a&gt;. Since complex brain functions such as cognition are typically mediated by brain networks (and not single regions), this includes implementing &lt;strong&gt;rt-fMRI-NF for networks&lt;/strong&gt; rather than stand-alone regions. Furthermore, we are looking for &lt;strong&gt;biomarkers of functional network impairment&lt;/strong&gt; that may be exploit for rt-fMRI-NF. Having identified these, they may be used to provide neurofeedback and to study the resulting &lt;strong&gt;changes in functional network organization&lt;/strong&gt; and &lt;strong&gt;clinical outcome&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Another important issue is the &lt;strong&gt;sustainability&lt;/strong&gt; of the effect; how many training sessions are needed in order to have an effect that extends the rt-fMRI-NF session (i.e. also outside the scanner)? And how can these changes be maintained; do subjects need to a new session of rt-fMRI-NF trainings every now and then? At what interval? Or can we maybe prolong the effect using &lt;strong&gt;ambulatory and/or less expensive modalities&lt;/strong&gt; that assess brain activity (EEG neurofeedback, fNIRS neurofeedback)?&lt;/p&gt;
 </description>
@@ -131,24 +131,28 @@ have on neuropsychological and MRI outcome?&lt;/li&gt;
     
     <item>
       <title>fMRI and DTI to study TMS in depression</title>
-      <link>http://95.85.33.21/project/advanced_MRI_depression/</link>
+      <link>https://neu3ca.github.io/project/advanced_MRI_depression/</link>
       <pubDate>Fri, 01 Jan 2016 16:10:22 +0200</pubDate>
       
-      <guid>http://95.85.33.21/project/advanced_MRI_depression/</guid>
+      <guid>https://neu3ca.github.io/project/advanced_MRI_depression/</guid>
       <description>
 
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
 
-&lt;p&gt;Text functional and structural connectivity (fMRI and DTI) studies in depression, provided by Debby.&lt;/p&gt;
+&lt;p&gt;Even though the therapeutic potential of repetitive transcranial magnetic stimulation (rTMS) is investigated for a broad range of neuropsychiatric disorders, up to now rTMS is only FDA approved for the treatment of treatment resistant depression (TRD). Standard stimulation protocol for this patient group consists of daily sessions of rTMS, stimulation frequency 10-18 Hz, repeated for 4-6 weeks.&lt;/p&gt;
+
+&lt;p&gt;At the psychiatry department of the University Hospital Ghent (under supervision of Prof. Baeken), accelerated stimulation protocols are tested in randomized, sham-controlled, double-blinded trials. Accelerated basically means that the stimulation sessions are applied within a couple of days (multiple stimulation sessions a day) instead of over a period of weeks (one stimulation session a day).&lt;/p&gt;
+
+&lt;p&gt;An MRI protocol, including anatomical, functional, and diffusion sequences, is applied before and after sham and real stimulation. Functional MRI and diffusion MRI data are used to investigate the effects of stimulation on brain network topology.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cortical thickness in deteriorating patients with epilepsy</title>
-      <link>http://95.85.33.21/project/cort_thk_cogn_compl/</link>
+      <link>https://neu3ca.github.io/project/cort_thk_cogn_compl/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/project/cort_thk_cogn_compl/</guid>
+      <guid>https://neu3ca.github.io/project/cort_thk_cogn_compl/</guid>
       <description>
 
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
@@ -163,10 +167,10 @@ have on neuropsychological and MRI outcome?&lt;/li&gt;
     
     <item>
       <title>Mental speed and flexibility in epilepsy and aging</title>
-      <link>http://95.85.33.21/project/mentalspeedflexaging/</link>
+      <link>https://neu3ca.github.io/project/mentalspeedflexaging/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/project/mentalspeedflexaging/</guid>
+      <guid>https://neu3ca.github.io/project/mentalspeedflexaging/</guid>
       <description>
 
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
@@ -177,10 +181,10 @@ have on neuropsychological and MRI outcome?&lt;/li&gt;
     
     <item>
       <title>Continuous theta burst stimulation (cTBS) for the treatment of drug-insensitive epilepsy</title>
-      <link>http://95.85.33.21/project/cTBS/</link>
+      <link>https://neu3ca.github.io/project/cTBS/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/project/cTBS/</guid>
+      <guid>https://neu3ca.github.io/project/cTBS/</guid>
       <description>
 
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
@@ -195,10 +199,10 @@ have on neuropsychological and MRI outcome?&lt;/li&gt;
     
     <item>
       <title>Modeling of Transcranial Magnetic Stimulation</title>
-      <link>http://95.85.33.21/project/TMS_modeling/</link>
+      <link>https://neu3ca.github.io/project/TMS_modeling/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/project/TMS_modeling/</guid>
+      <guid>https://neu3ca.github.io/project/TMS_modeling/</guid>
       <description>
 
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
@@ -213,10 +217,10 @@ have on neuropsychological and MRI outcome?&lt;/li&gt;
     
     <item>
       <title>Dynamics of functional networks</title>
-      <link>http://95.85.33.21/project/wavelet/</link>
+      <link>https://neu3ca.github.io/project/wavelet/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/project/wavelet/</guid>
+      <guid>https://neu3ca.github.io/project/wavelet/</guid>
       <description>
 
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;

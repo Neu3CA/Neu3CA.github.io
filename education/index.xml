@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education-rsses on Neu3CA</title>
-    <link>http://95.85.33.21/education/index.xml</link>
+    <link>https://neu3ca.github.io/education/index.xml</link>
     <description>Recent content in Education-rsses on Neu3CA</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Neu3CA, 2016 </copyright>
     <lastBuildDate>Mon, 03 Oct 2016 15:50:58 +0200</lastBuildDate>
-    <atom:link href="http://95.85.33.21/education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://neu3ca.github.io/education/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Neu&lt;sup&gt;3&lt;/sup&gt;CA education</title>
-      <link>http://95.85.33.21/education/education/</link>
+      <link>https://neu3ca.github.io/education/education/</link>
       <pubDate>Mon, 03 Oct 2016 15:50:58 +0200</pubDate>
       
-      <guid>http://95.85.33.21/education/education/</guid>
+      <guid>https://neu3ca.github.io/education/education/</guid>
       <description>
 
 &lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
@@ -23,9 +23,9 @@
 
 &lt;p&gt;&lt;strong&gt;At TU/e&lt;/strong&gt;, neurology is one of the 4 pillars of the &lt;a href=&#34;https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/electrical-engineering/care-and-cure/&#34;&gt;Care &amp;amp; Cure (C&amp;amp;C) mastertrack&lt;/a&gt; at the department of &lt;a href=&#34;https://www.tue.nl/en/university/departments/electrical-engineering/&#34;&gt;Electrical Engineering&lt;/a&gt;. By choosing &lt;a href=&#34;https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/electrical-engineering/care-and-cure/curriculum/subtracks/&#34;&gt;elective courses&lt;/a&gt; and a graduation track within one of the pillars, you can obtain a &lt;strong&gt;Care &amp;amp; Cure certificate&lt;/strong&gt; with a &lt;strong&gt;sub-certificate in Neurology&lt;/strong&gt;, in addition to the Electrical Engineering MSc diploma. These courses are also open to and interesting for students from different TU/e departments, such as Biomedical Engineering, Applied Physics, Mathematics &amp;amp; Computer Science and Industrial Engineering &amp;amp; Innovation Sciences. Check the &lt;a href=&#34;https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/electrical-engineering/&#34;&gt;master education guide on the Electrical Engineering website&lt;/a&gt; (intranet) for more details and the short-list of recommended courses.&lt;/p&gt;
 
-&lt;p&gt;At &lt;strong&gt;Ghent University&lt;/strong&gt;, the departments of &lt;a href=&#34;https://oasis.ugent.be/studiekiezer-web/nl/afstudeerrichting/DMBIOM&#34;&gt;Biomedical Sciences&lt;/a&gt; (major neuroscience),  &lt;a href=&#34;http://www.ugent.be/ge/nl&#34;&gt;Medicine&lt;/a&gt; (honours program) and &lt;a href=&#34;http://www.ugent.be/ea/bme/en&#34;&gt;Biomedical Engineering&lt;/a&gt; are the most suitable entries for Neu&lt;sup&gt;3&lt;/sup&gt;CA. Also, the Laboratory for Clinical and Experimental Neurophysiology (&lt;a href=&#34;http://www.ugent.be/ge/inwgen/en/research/neurology/lcen.htm&#34;&gt;LCEN3&lt;/a&gt;) is an important partner of and introduction to our research challenges.&lt;/p&gt;
+&lt;p&gt;At &lt;strong&gt;Ghent University (U Gent)&lt;/strong&gt;, the departments of &lt;a href=&#34;https://oasis.ugent.be/studiekiezer-web/nl/afstudeerrichting/DMBIOM&#34;&gt;Biomedical Sciences&lt;/a&gt; (major neuroscience),  &lt;a href=&#34;http://www.ugent.be/ge/nl&#34;&gt;Medicine&lt;/a&gt; (honours program) and &lt;a href=&#34;http://www.ugent.be/ea/bme/en&#34;&gt;Biomedical Engineering&lt;/a&gt; are the most suitable entries for Neu&lt;sup&gt;3&lt;/sup&gt;CA. Also, the Laboratory for Clinical and Experimental Neurophysiology (&lt;a href=&#34;http://www.ugent.be/ge/inwgen/en/research/neurology/lcen.htm&#34;&gt;LCEN3&lt;/a&gt;) is an important partner of and introduction to our research challenges.&lt;/p&gt;
 
-&lt;p&gt;Within the Neu&lt;sup&gt;3&lt;/sup&gt;ca brain research program, there are also ample opportunities for students to perform &lt;strong&gt;internships&lt;/strong&gt;, or to do their &lt;strong&gt;BSc or MSc &lt;a href=&#34;http://95.85.33.21/project&#34;&gt;projects&lt;/a&gt;&lt;/strong&gt;. These projects typically are in cooperation with one or several of our (external) &lt;a href=&#34;http://95.85.33.21/partners/partner&#34;&gt;partners&lt;/a&gt;. The projects are in the neuroscience/neuroengineering domain, typically are related to signal or image processing, and are focused on clinical application.&lt;/p&gt;
+&lt;p&gt;Within the Neu&lt;sup&gt;3&lt;/sup&gt;ca brain research program, there are also ample opportunities for students to perform &lt;strong&gt;internships&lt;/strong&gt;, or to do their &lt;strong&gt;BSc or MSc &lt;a href=&#34;https://neu3ca.github.io/project&#34;&gt;projects&lt;/a&gt;&lt;/strong&gt;. These projects typically are in cooperation with one or several of our (external) &lt;a href=&#34;https://neu3ca.github.io/partners/partners&#34;&gt;partners&lt;/a&gt;. The projects are in the neuroscience/neuroengineering domain, typically are related to signal or image processing, and are focused on clinical application.&lt;/p&gt;
 
 &lt;p&gt;Don&amp;rsquo;t hesitate to &lt;a href=&#34;#contact&#34;&gt;contact&lt;/a&gt; us if you&amp;rsquo;ve got questions concerning Neu&lt;sup&gt;3&lt;/sup&gt;CA education!&lt;/p&gt;
 </description>

@@ -2,127 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication-rsses on Neu3CA</title>
-    <link>http://95.85.33.21/publication/index.xml</link>
+    <link>https://neu3ca.github.io/publication/index.xml</link>
     <description>Recent content in Publication-rsses on Neu3CA</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Neu3CA, 2016 </copyright>
-    <lastBuildDate>Sun, 30 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://95.85.33.21/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://neu3ca.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A prestimulation evaluation protocol for patients with drug resistant epilepsy.</title>
+      <link>https://neu3ca.github.io/publication/Carrette_Seizure_2016/</link>
+      <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://neu3ca.github.io/publication/Carrette_Seizure_2016/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Altered neurotransmitter metabolism in adolescents with high-functioning autism</title>
-      <link>http://95.85.33.21/publication/Drenthen_Neurotrans_ASD_oct2016/</link>
+      <link>https://neu3ca.github.io/publication/Drenthen_Neurotrans_ASD_oct2016/</link>
       <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/publication/Drenthen_Neurotrans_ASD_oct2016/</guid>
+      <guid>https://neu3ca.github.io/publication/Drenthen_Neurotrans_ASD_oct2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognitive deterioration in adult epilepsy: clinical characteristics of Accelerated Cognitive Ageing</title>
-      <link>http://95.85.33.21/publication/Breuer_ACA_neuropsy_oct2016/</link>
+      <link>https://neu3ca.github.io/publication/Breuer_ACA_neuropsy_oct2016/</link>
       <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/publication/Breuer_ACA_neuropsy_oct2016/</guid>
+      <guid>https://neu3ca.github.io/publication/Breuer_ACA_neuropsy_oct2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Repetitive transcranial magnetic stimulation for the treatment of refractory epilepsy.</title>
-      <link>http://95.85.33.21/publication/Carrette_rTMS_ref_epi_sep2016/</link>
+      <link>https://neu3ca.github.io/publication/Carrette_rTMS_ref_epi_sep2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/publication/Carrette_rTMS_ref_epi_sep2016/</guid>
+      <guid>https://neu3ca.github.io/publication/Carrette_rTMS_ref_epi_sep2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gradient Artefact Correction and Evaluation of the EEG Recorded Simultaneously with fMRI Data Using Optimised Moving-Average.</title>
-      <link>http://95.85.33.21/publication/Ferreira_EEG_OMA_june2016/</link>
+      <link>https://neu3ca.github.io/publication/Ferreira_EEG_OMA_june2016/</link>
       <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/publication/Ferreira_EEG_OMA_june2016/</guid>
+      <guid>https://neu3ca.github.io/publication/Ferreira_EEG_OMA_june2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technical aspects of neurostimulation: Focus on equipment, electric field modeling, and stimulation protocols.</title>
-      <link>http://95.85.33.21/publication/Klooster_review_neurostim_june2016/</link>
+      <link>https://neu3ca.github.io/publication/Klooster_review_neurostim_june2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/publication/Klooster_review_neurostim_june2016/</guid>
+      <guid>https://neu3ca.github.io/publication/Klooster_review_neurostim_june2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognitive deterioration in adult epilepsy: Does accelerated cognitive ageing exist?</title>
-      <link>http://95.85.33.21/publication/Breuer_ACA_review_may2016/</link>
+      <link>https://neu3ca.github.io/publication/Breuer_ACA_review_may2016/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/publication/Breuer_ACA_review_may2016/</guid>
+      <guid>https://neu3ca.github.io/publication/Breuer_ACA_review_may2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epilepsy: closing the loop for patients with epilepsy.</title>
-      <link>http://95.85.33.21/publication/BoonVonckNature2015/</link>
+      <link>https://neu3ca.github.io/publication/BoonVonckNature2015/</link>
       <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/publication/BoonVonckNature2015/</guid>
+      <guid>https://neu3ca.github.io/publication/BoonVonckNature2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Delayed convergence between brain network structure and function in rolandic epilepsy.</title>
-      <link>http://95.85.33.21/publication/Besseling_delayed_conv_SC_FC_sep2014/</link>
+      <link>https://neu3ca.github.io/publication/Besseling_delayed_conv_SC_FC_sep2014/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/publication/Besseling_delayed_conv_SC_FC_sep2014/</guid>
+      <guid>https://neu3ca.github.io/publication/Besseling_delayed_conv_SC_FC_sep2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vagus nerve stimulation…25 years later! What do we know about the effects on cognition?</title>
-      <link>http://95.85.33.21/publication/Vonck_VNS25_sep2014/</link>
+      <link>https://neu3ca.github.io/publication/Vonck_VNS25_sep2014/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/publication/Vonck_VNS25_sep2014/</guid>
+      <guid>https://neu3ca.github.io/publication/Vonck_VNS25_sep2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aberrant functional connectivity between motor and language networks in rolandic epilepsy.</title>
-      <link>http://95.85.33.21/publication/Besseling_aberFC_RE_dec2013/</link>
+      <link>https://neu3ca.github.io/publication/Besseling_aberFC_RE_dec2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/publication/Besseling_aberFC_RE_dec2013/</guid>
+      <guid>https://neu3ca.github.io/publication/Besseling_aberFC_RE_dec2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reduced structural connectivity between sensorimotor and language areas in rolandic epilepsy</title>
-      <link>http://95.85.33.21/publication/Besseling_red_SC_RE_2013/</link>
+      <link>https://neu3ca.github.io/publication/Besseling_red_SC_RE_2013/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/publication/Besseling_red_SC_RE_2013/</guid>
+      <guid>https://neu3ca.github.io/publication/Besseling_red_SC_RE_2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reduced functional integration of the sensorimotor and language network in rolandic epilepsy.</title>
-      <link>http://95.85.33.21/publication/Besseling_red_func_integration_jan2013/</link>
+      <link>https://neu3ca.github.io/publication/Besseling_red_func_integration_jan2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/publication/Besseling_red_func_integration_jan2013/</guid>
+      <guid>https://neu3ca.github.io/publication/Besseling_red_func_integration_jan2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Loss of network efficiency associated with cognitive decline in chronic epilepsy.</title>
-      <link>http://95.85.33.21/publication/Vlooswijk_Lancet_2011/</link>
+      <link>https://neu3ca.github.io/publication/Vlooswijk_Lancet_2011/</link>
       <pubDate>Wed, 10 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://95.85.33.21/publication/Vlooswijk_Lancet_2011/</guid>
+      <guid>https://neu3ca.github.io/publication/Vlooswijk_Lancet_2011/</guid>
       <description></description>
     </item>
     

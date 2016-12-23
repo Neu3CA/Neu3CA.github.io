@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme" content="hugo-academic-group">
+
+    
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://95.85.33.21/js/hugo-academic-group.js"></script>
+
+    <link rel="stylesheet" href="http://95.85.33.21/css/bootstrap.min.css">
+    <script src="http://95.85.33.21/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
+    
+    <script src="http://95.85.33.21/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+    <link rel="stylesheet" href="http://95.85.33.21/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://95.85.33.21/css/academicons.min.css">
+    <link rel="stylesheet" href="http://95.85.33.21/css/biaslab-font.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+    <link rel="stylesheet" href="http://95.85.33.21/css/hugo-academic-group.css">
+
+    
+
+
+    <link rel="shortcut icon" href="http://95.85.33.21/img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="http://95.85.33.21/project/EEG_graph_datamining/">
+
+    <title>Data-mining and graph analysis of EEG data | Neu3CA</title>
+
+</head>
+<body id="top_body">
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <div class="navbar-brand">
+                
+                    <a class="logo" href="http://95.85.33.21/#top">
+                        <img src="http://95.85.33.21/img/neu3ca-logo_small.jpg" alt="University logo"></img>
+                    </a>
+                
+                
+                 
+                     
+                        
+                            <a href="https://www.tue.nl/">TU/e</a>
+                            /
+                        
+                            <a href="http://www.kempenhaeghe.nl/">KH</a>
+                            /
+                        
+                    
+                    
+                        <a href="http://www.ugent.be/en">U Ghent</a>
+                    
+    
+                
+            </div>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                <li class="nav-item"><a href="http://95.85.33.21#top">Home</a></li>
+                
+                <li class="nav-item"><a href="http://95.85.33.21/aims/aims">Aims</a></li>
+                
+                <li class="nav-item"><a href="http://95.85.33.21/partners/partners">Partners</a></li>
+                
+                <li class="nav-item"><a href="http://95.85.33.21#members">Members</a></li>
+                
+                <li class="nav-item"><a href="http://95.85.33.21/education/education">Education</a></li>
+                
+                <li class="nav-item"><a href="http://95.85.33.21#projects">Projects</a></li>
+                
+                <li class="nav-item"><a href="http://95.85.33.21/background/background_general">Background</a></li>
+                
+                <li class="nav-item"><a href="http://95.85.33.21#publications">Publications</a></li>
+                
+                <li class="nav-item"><a href="http://95.85.33.21#contact">Contact</a></li>
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    
+
+    <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+        <h1 itemprop="name">Data-mining and graph analysis of EEG data</h1>
+        
+        
+        <h3>Participants</h3>
+        <div id="participants"> 
+            <div class="container">
+                <div class="row">
+                    
+                
+                
+                 
+                    
+                    
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                            <div class="col-xs-12 col-md-2"> 
+                                <div id="profile">
+                                    <a href="http://95.85.33.21/member/negar/">
+                                        <div class="small-portrait" itemprop="image" style="background-image: url('http://95.85.33.21/img/portraits/negar.jpg');"></div>
+                                    </a>
+                                    <div class="portrait-title">
+                                        <h3 itemprop="name"><a href="http://95.85.33.21/member/negar/">Negar Ahmadi</a></h3>
+                                        <h4>PhD candidate</h4>
+                                    </div>
+                                </div>
+                            </div>
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                     
+                 
+                    
+                    
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                            <div class="col-xs-12 col-md-2"> 
+                                <div id="profile">
+                                    <a href="http://95.85.33.21/member/rene/">
+                                        <div class="small-portrait" itemprop="image" style="background-image: url('http://95.85.33.21/img/portraits/rene.jpg');"></div>
+                                    </a>
+                                    <div class="portrait-title">
+                                        <h3 itemprop="name"><a href="http://95.85.33.21/member/rene/">René Besseling</a></h3>
+                                        <h4>advisor</h4>
+                                    </div>
+                                </div>
+                            </div>
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                     
+                 
+                    
+                    
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                            <div class="col-xs-12 col-md-2"> 
+                                <div id="profile">
+                                    <a href="http://95.85.33.21/member/evelien/">
+                                        <div class="small-portrait" itemprop="image" style="background-image: url('http://95.85.33.21/img/portraits/evelien.png');"></div>
+                                    </a>
+                                    <div class="portrait-title">
+                                        <h3 itemprop="name"><a href="http://95.85.33.21/member/evelien/">Evelien Carrette</a></h3>
+                                        <h4>advisor</h4>
+                                    </div>
+                                </div>
+                            </div>
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                     
+                 
+                    
+                    
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                            <div class="col-xs-12 col-md-2"> 
+                                <div id="profile">
+                                    <a href="http://95.85.33.21/member/bert/">
+                                        <div class="small-portrait" itemprop="image" style="background-image: url('http://95.85.33.21/img/portraits/bert.jpg');"></div>
+                                    </a>
+                                    <div class="portrait-title">
+                                        <h3 itemprop="name"><a href="http://95.85.33.21/member/bert/">Bert Aldenkamp</a></h3>
+                                        <h4>promotor</h4>
+                                    </div>
+                                </div>
+                            </div>
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                     
+                 
+                    
+                    
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                            <div class="col-xs-12 col-md-2"> 
+                                <div id="profile">
+                                    <a href="http://95.85.33.21/member/mykola/">
+                                        <div class="small-portrait" itemprop="image" style="background-image: url('http://95.85.33.21/img/portraits/mykola.jpg');"></div>
+                                    </a>
+                                    <div class="portrait-title">
+                                        <h3 itemprop="name"><a href="http://95.85.33.21/member/mykola/">Mykola Pechenizkiy</a></h3>
+                                        <h4>promotor</h4>
+                                    </div>
+                                </div>
+                            </div>
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                         
+                     
+                     
+                
+                
+
+               
+                </div>
+            </div>
+        </div>
+        
+
+        
+
+        <div class="article-style" itemprop="articleBody">
+            <p>In this project, the human brain is represented as a complex network, where brain regions are the nodes of that network and weighted links between each two nodes shows their synchronization and communication frequency. For this purpose, EEG or MEG are used for measuring the activity of different brain regions. For quantifying the relationship between the brain regions, there are a lot of synchronization measures that can be chosen; with the help of those measurements, the functional brain network can be constructed and then modern network science offers a lot of tools to analyze the brain and finding/localizing differences between patients and healthy control.</p>
+
+<p>Having robustly extracted the network structure from the data, the next step of this project is to combine network theoretical analysis with data mining and machine learning tools, in order to classify and cluster healthy brain connectivity patterns and brain patterns with some disorders. This may be used for sub-categorization of certain diseases (such as epilepsy), which may be relevant to develop tailored treatments.</p>
+
+<p>This project relies on knowledge and expertise in signal processing, graph theory, physics and neurology.</p>
+
+        </div>
+    
+        
+     </article>
+    
+   <nav>
+    <ul class="pager">
+        
+        <li class="previous">
+            <a href="http://95.85.33.21/project/highFieldPostStroke/">
+                <span aria-hidden="true" class="darknav">&larr;&nbsp;Previous project:</span>
+                High field MRI in post-stroke epilepsy
+            </a>
+        </li>
+        
+
+        
+    </ul>
+</nav>
+
+
+</div>
+
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            &copy; Neu3CA, 2016 &middot; 
+
+            Partially powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+
+
+
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+</script>
+<script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+
+</body>
+</html>
+

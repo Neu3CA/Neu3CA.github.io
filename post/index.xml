@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on Neu3CA</title>
+    <link>http://95.85.33.21/post/index.xml</link>
+    <description>Recent content in Post-rsses on Neu3CA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Neu3CA, 2016 </copyright>
+    <lastBuildDate>Mon, 07 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://95.85.33.21/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Interview Bert and René</title>
+      <link>http://95.85.33.21/post/interview_BA_RB/</link>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://95.85.33.21/post/interview_BA_RB/</guid>
+      <description>&lt;p&gt;Check out the image below or the &lt;a href=&#34;http://95.85.33.21/Neu3CA_ED_04112016.pdf&#34;&gt;pdf&lt;/a&gt; of the interview with &lt;a href=&#34;http://95.85.33.21/member/bert&#34;&gt;Bert&lt;/a&gt; and &lt;a href=&#34;http://95.85.33.21/member/rene&#34;&gt;René&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;centered&#34; src=&#34;http://95.85.33.21/img/Neu3CA_ED_04112016.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 1000px;&#34;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Signing Neu3CA consortium agreement</title>
+      <link>http://95.85.33.21/post/signingMOU/</link>
+      <pubDate>Mon, 03 Oct 2016 15:50:58 +0200</pubDate>
+      
+      <guid>http://95.85.33.21/post/signingMOU/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The signing of the Neu&lt;sup&gt;3&lt;/sup&gt;CA memorandum of understanding with representatives of TU/e, Kempenhaeghe and Ghent University (Hospital).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;From left to right: drs Marlène Chatrou (chair of Kempenhaeghe board), prof dr Ignance Lemahieu (research director Ghent University), prof dr Eric Mortier (CEO UZ Gent), Carmen van Vilsteren, MSc (director Strategic Area Health, TU/e), dr Evelien Carrette (clinical program director Neu&lt;sup&gt;3&lt;/sup&gt;CA), prof dr Paul Boon (head of Neurology department UZ Gent, chair R&amp;amp;D Kempenhaeghe), dr ir René Besseling (technical program director Neu&lt;sup&gt;3&lt;/sup&gt;CA), prof dr ir Bart Smolders (dean department Electrical Engineering, TU/e), prof. dr. Piet Hoebeke (dean Faculty of Medicine Ghent University), prof dr ir Jan Bergmans (head of Signal Processing Systems group, TU/e), prof dr Bert Aldenkamp (head behavioral research and vice-chair R&amp;amp;D Kempenhaeghe).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;centered&#34; src=&#34;http://95.85.33.21/img/SigningMOU_UZGent161024.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 1000px;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;Neu&lt;sup&gt;3&lt;/sup&gt;CA is a multidisciplinary and multi-institute research progam. To facilitate the cooperation between TU/e, Kempenhaeghe and Ghent University &amp;amp; University Hospital, a Memorandum of Understand (MOU) was signed in Ghent on October 24th. This event was picked up by several media:&lt;/p&gt;
+
+&lt;p&gt;Check out the article in the &lt;a href=&#34;http://www.ad.nl/eindhoven/brabants-belgisch-onderzoek-naar-veroudering-van-hersenen~a4a58a09/&#34;&gt;Algemeen Dagblad&lt;/a&gt;, &lt;a href=&#34;http://95.85.33.21/img/MOU_Neu3CA_02112016_ED.jpg&#34;&gt;Eindhovens Dagblad&lt;/a&gt; and &lt;a href=&#34;https://www.tue.nl/universiteit/nieuws-en-pers/nieuws/03-11-2016-onderzoek-met-universiteit-gent-en-kempenhaeghe-naar-hersenveroudering/&#34;&gt;TU/e website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clinical drive, technical innovations</title>
+      <link>http://95.85.33.21/post/mission/</link>
+      <pubDate>Sat, 01 Oct 2016 15:50:58 +0200</pubDate>
+      
+      <guid>http://95.85.33.21/post/mission/</guid>
+      <description>
+
+&lt;p&gt;In this note we describe the research mission of the Neu&lt;sup&gt;3&lt;/sup&gt;CA team.&lt;/p&gt;
+
+&lt;h3 id=&#34;answering-the-right-question&#34;&gt;Answering the right question&lt;/h3&gt;
+
+&lt;p&gt;Within Neu&lt;sup&gt;3&lt;/sup&gt;CA, we strive for real-world impact in addition to academic output. We mainly focus on cognitive impairments as a side-effect of epilepsy. The occurance of spontaneous seizures is a key aspect of epilepsy, but seizures are only one aspect of this disease. In more than half the epilepsy patients, additional problems occur, notably cognitive complaints, and these account for about half the disease burden. Treatment options for cognitive complaints are currently very limited. The story is complicated by the fact that anti-epileptic drugs (AEDs) themselves may also cause cognitive complaints. Cognitive complaint coping in clinical pratice thus comes down to a trade-off: in a close diaglogue between doctor and patient, it is searched for sufficient seizure suppresion balanced by acceptable side effects.&lt;/p&gt;
+
+&lt;p&gt;We try to address the complex issue of cognitive complaints in epilepsy in a multidisciplinary team. We involve clinicians (neurologists, neuropsychologists) to get an idea about the exact type of complaints, how these impact quality of life, and what daily clinical care looks like. We also involve people with a more technical background to translate these issue into technical problems (e.g. complex fMRI analyses) to  gain more insight. These results are then discussed within our team and inspire the next steps in our research. This clinical-technical dialogue makes sure that we do research that is innovative, but at the end of the day has actual added value for our patients as well.&lt;/p&gt;
+
+&lt;p&gt;This integration between technicians and clinicians is visible in all aspects of Neu&lt;sup&gt;3&lt;/sup&gt;CA: both technical and clinical research institutes are involved; the program has both a technical and a clinical director; and both technical and clinical PhD students work together in specific research projects.&lt;/p&gt;
+
+&lt;p&gt;Following this approach, we hope to not only give the right answer, but also to address the right question.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

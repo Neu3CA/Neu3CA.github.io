@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project-rsses on Neu3CA</title>
+    <link>http://95.85.33.21/project/index.xml</link>
+    <description>Recent content in Project-rsses on Neu3CA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Neu3CA, 2016 </copyright>
+    <lastBuildDate>Tue, 15 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://95.85.33.21/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data-mining and graph analysis of EEG data</title>
+      <link>http://95.85.33.21/project/EEG_graph_datamining/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://95.85.33.21/project/EEG_graph_datamining/</guid>
+      <description>&lt;p&gt;In this project, the human brain is represented as a complex network, where brain regions are the nodes of that network and weighted links between each two nodes shows their synchronization and communication frequency. For this purpose, EEG or MEG are used for measuring the activity of different brain regions. For quantifying the relationship between the brain regions, there are a lot of synchronization measures that can be chosen; with the help of those measurements, the functional brain network can be constructed and then modern network science offers a lot of tools to analyze the brain and finding/localizing differences between patients and healthy control.&lt;/p&gt;
+
+&lt;p&gt;Having robustly extracted the network structure from the data, the next step of this project is to combine network theoretical analysis with data mining and machine learning tools, in order to classify and cluster healthy brain connectivity patterns and brain patterns with some disorders. This may be used for sub-categorization of certain diseases (such as epilepsy), which may be relevant to develop tailored treatments.&lt;/p&gt;
+
+&lt;p&gt;This project relies on knowledge and expertise in signal processing, graph theory, physics and neurology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High field MRI in post-stroke epilepsy</title>
+      <link>http://95.85.33.21/project/highFieldPostStroke/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://95.85.33.21/project/highFieldPostStroke/</guid>
+      <description>&lt;p&gt;7T post-stroke epilepsy project; description by Rob Rouhl&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clinical prospective study of accelerated cognitive ageing</title>
+      <link>http://95.85.33.21/project/clinicalprospectiveACA/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>http://95.85.33.21/project/clinicalprospectiveACA/</guid>
+      <description>
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;Text about prospective study in the neuropsychology of ACA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EEG-fMRI coupling</title>
+      <link>http://95.85.33.21/project/EEGfMRI_consequetive/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>http://95.85.33.21/project/EEGfMRI_consequetive/</guid>
+      <description>
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;In this project, we combine fMRI and EEG data to get a more complete view on epileptic networks. We look into the added value of combining the high spatial resolution of fMRI with the high temporal resolution of EEG.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MACA-E</title>
+      <link>http://95.85.33.21/project/MACAe/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>http://95.85.33.21/project/MACAe/</guid>
+      <description>
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;MACA-E stands for &amp;lsquo;MRI study of Accelerated Cognitive Aging in Epilepsy&amp;rsquo;. The notion of accelerated cognitive aging (ACA) as a specific form of cognitive impairment in epilepsy is at the basis of the Neu&lt;sup&gt;3&lt;/sup&gt;CA program, but is based on clinical experience rather than systematic investigation. The MACA-E study aims to investigate how prevalent ACA in epilepsy is, and what (specific) brain (network) abnormalities are associated with it.&lt;/p&gt;
+
+&lt;h2 id=&#34;study-rationale&#34;&gt;Study rationale&lt;/h2&gt;
+
+&lt;p&gt;The goal of the MACA-E study is to better characterize ACA in the context of the brain (MRI) and cognitive profile (neuropsychology).&lt;/p&gt;
+
+&lt;h3 id=&#34;primary-objectives&#34;&gt;Primary Objectives:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Can we identify neuronal markers of ACA in adult patients with epilepsy on the level of functional connectivity (resting state fMRI), structural connectivity (DTI), structural level (cortical mapping) or blood-brain perfusion?&lt;/li&gt;
+&lt;li&gt;Do these neuronal characteristics/differences in fMRI connectivity correlate with cognitive performance?&lt;/li&gt;
+&lt;li&gt;Can ACA be characterized by a greater loss of cognitive reserve capacity (defined as the change in the first versus the second resting state fMRI, mediated by cognitive activation with a cognitive activation task) , compared to the two control groups?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;secondary-objectives&#34;&gt;Secondary Objectives:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What influence do clinical characteristics (patient characteristics, epilepsy-related factors)
+have on neuropsychological and MRI outcome?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;study-design&#34;&gt;Study design:&lt;/h3&gt;
+
+&lt;p&gt;prospective observational study. Multimodal MRI and neuropsychological assessment will be performed at Epilepsy Centre Kempenhaeghe.&lt;/p&gt;
+
+&lt;h3 id=&#34;study-population&#34;&gt;Study population:&lt;/h3&gt;
+
+&lt;p&gt;Three cohorts: 20 adult patients with epilepsy and the clinical diagnosis of ACA, 20 age- , education- and type of epilepsy (etiology)-matched adult patients with epilepsy without ACA, 20 age- and education-matched healthy controls, all aged 18 to 80 years, with (premorbid) FSIQ &amp;gt; 70.&lt;/p&gt;
+
+&lt;h3 id=&#34;main-study-parameters-endpoints&#34;&gt;Main study parameters/endpoints:&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Cognitive parameters, i.e. the neuropsychological parameters for global cognitive decline (intelligence discrepancy scores, i.e. the discrepancy between the actual IQ and the estimated IQ according to the formula proposed by Schoenberg et al. [3]), information processing speed, attention and memory.&lt;/li&gt;
+&lt;li&gt;MRI parameters: macrostructural, microstructural and functional, and blood brain perfusion.&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real-time fMRI neurofeedback</title>
+      <link>http://95.85.33.21/project/rtfMRINF/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>http://95.85.33.21/project/rtfMRINF/</guid>
+      <description>
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;A special application of &lt;a href=&#34;http://95.85.33.21/background/MRI&#34;&gt;functional MRI&lt;/a&gt; is real-time fMRI neurofeedback (rt-fMRI-NF). In this modality, fMRI is used to access brain activity while the subject is in the scanner, and a certain measure of brain activity is presented back to the subject. The idea is that if a subject is aware of his/her ongoing brain activity, he/she can be trained to influence it. Although not in routine clinical practice, encouraging results have been obtained with rt-fMRI-NF. For example, certain cases of depression are characterized by reduced left amygdala activity. Using rt-fMRI-NF, depressed subjects can be trained to upregulate left amygdala activity, and their clinical symptoms improve.&lt;/p&gt;
+
+&lt;h2 id=&#34;research-challenges&#34;&gt;Research challenges&lt;/h2&gt;
+
+&lt;p&gt;Within the &lt;a href=&#34;http://95.85.33.21/background/neu3ca&#34;&gt;Neu&lt;sup&gt;3&lt;/sup&gt;ca program&lt;/a&gt;  we are investigating rt-fMRI-NF as a way to mitigate cognitive impairment in &lt;a href=&#34;http://95.85.33.21/background/epilepsy&#34;&gt;epilepsy&lt;/a&gt;. Since complex brain functions such as cognition are typically mediated by brain networks (and not single regions), this includes implementing &lt;strong&gt;rt-fMRI-NF for networks&lt;/strong&gt; rather than stand-alone regions. Furthermore, we are looking for &lt;strong&gt;biomarkers of functional network impairment&lt;/strong&gt; that may be exploit for rt-fMRI-NF. Having identified these, they may be used to provide neurofeedback and to study the resulting &lt;strong&gt;changes in functional network organization&lt;/strong&gt; and &lt;strong&gt;clinical outcome&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Another important issue is the &lt;strong&gt;sustainability&lt;/strong&gt; of the effect; how many training sessions are needed in order to have an effect that extends the rt-fMRI-NF session (i.e. also outside the scanner)? And how can these changes be maintained; do subjects need to a new session of rt-fMRI-NF trainings every now and then? At what interval? Or can we maybe prolong the effect using &lt;strong&gt;ambulatory and/or less expensive modalities&lt;/strong&gt; that assess brain activity (EEG neurofeedback, fNIRS neurofeedback)?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>fMRI and DTI to study TMS in depression</title>
+      <link>http://95.85.33.21/project/advanced_MRI_depression/</link>
+      <pubDate>Fri, 01 Jan 2016 16:10:22 +0200</pubDate>
+      
+      <guid>http://95.85.33.21/project/advanced_MRI_depression/</guid>
+      <description>
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;Text functional and structural connectivity (fMRI and DTI) studies in depression, provided by Debby.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cortical thickness in deteriorating patients with epilepsy</title>
+      <link>http://95.85.33.21/project/cort_thk_cogn_compl/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://95.85.33.21/project/cort_thk_cogn_compl/</guid>
+      <description>
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;The brain cortex contains neuronal cell bodies, at which axons (white matter fibers) end and begin, to facilitate communication with other brain regions. This basically means that a thicker cortex means more cell bodies and more white matter. If these white matter fibers project to specific other cortical regions, consequently the cortex in these connected regions in thicker as well.&lt;/p&gt;
+
+&lt;p&gt;This concept is employed in cortical thickness connectivity. If certain cortical regions show similar variations in thickness over subjects, they are likely to be connected.&lt;/p&gt;
+
+&lt;p&gt;In this project we look into specific abnormalities in cortical thickness organization in patients with cognitive deterioration and epilepsy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mental speed and flexibility in epilepsy and aging</title>
+      <link>http://95.85.33.21/project/mentalspeedflexaging/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://95.85.33.21/project/mentalspeedflexaging/</guid>
+      <description>
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;Text about the neuropsychological aspects of mental speed and flexibility in the context of (accelerated) cognitive aging in epilepsy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continuous theta burst stimulation (cTBS) for the treatment of drug-insensitive epilepsy</title>
+      <link>http://95.85.33.21/project/cTBS/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://95.85.33.21/project/cTBS/</guid>
+      <description>
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;Epileptic seizure typically originate from an epileptic focus, which is a hyperexcitable region of brain cortex. An interesting treatment may be inhibitory (&amp;lt;1Hz) repetitive transcranial magnetic stimulation (rTMS) to tune down local excitability. Theta burst stimulation (TBS) is a relatively novel and potent rTMS protocol holding multiple advantages concerning practicality and durability of the induced effects. This is the first study applying cTBS in the context of epilepsy.&lt;/p&gt;
+
+&lt;p&gt;In this study, 10 patients with neocortical epilepsy will be treated with cTBS, directed towards the seizure focus. The primary goal is to test the safety and tolerability of cTBS in epilepsy. Therefore, we will perform neuropsychological tests and we keep track of seizure occurrence and other adverse events during the stimulation treatment. Furthermore we are interested in the clinical efficacy. To test this, patients are asked to keep a seizure diary and we record EEG.&lt;/p&gt;
+
+&lt;p&gt;The secondary goal is to study the mechanism of action of TMS. Before and after the treatment, we test cortical excitability using TMS-EMG and TMS-EEG and we want to study brain connectivities based on high density EEG recordings and MRI (anatomical, functional, and diffusion scans). In other words, we are interested whether &lt;em&gt;locally&lt;/em&gt; applied TMS improves the &lt;em&gt;overall&lt;/em&gt; organization of the brain network.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling of Transcranial Magnetic Stimulation</title>
+      <link>http://95.85.33.21/project/TMS_modeling/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://95.85.33.21/project/TMS_modeling/</guid>
+      <description>
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;In Transcranial Magnetic Stimulation (TMS), an alternating magnetic field is induced in a coil that is held over the scalp, which causes induction currents within the underlying brain tissue. The direct effect local stimulation or inhibition of neurons or more generally, the modulation of local neuronal activity. Since the brain is a network, these effects might also influence neuronal networks and neuronal signalling elsewhere in the brain.&lt;/p&gt;
+
+&lt;p&gt;Within this project, we simulate how electro-magnetic fields couple into the brain tissue. These fields are dependent on local tissue morphology (different tissue types, brain sulci and gyri, etc) and thus are highly heterogenous. This means there is quite some local variability in how effectively the neurons are affected. Conversely this also means that slight variations in coil position may have huge effects on the patterns of neuronal activity modulation the induce.&lt;/p&gt;
+
+&lt;p&gt;Having modelled the fields, we are interested in neurophysiology: how is the local neuronal activity modulated, what neuronal subtypes are actually affected, how do these local effects propagate into neuronal (micro)-circuits? We are also interested in how all this is affected by neuroplasticity, i.e. how neurostimulation causes (lasting) changes in brain network organization, and how (ultimately) these network alterations relate to clinical characteristics such as symptom improvement.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamics of functional networks</title>
+      <link>http://95.85.33.21/project/wavelet/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://95.85.33.21/project/wavelet/</guid>
+      <description>
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;Functional connectivity is not a fixed thing: brain regions that first showed synchronous activity may now be uncorrelated in activity, or even anti-correlated. We think that certain brain diseases may even be characterized by abnormalities in dynamic interactions between brain regions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

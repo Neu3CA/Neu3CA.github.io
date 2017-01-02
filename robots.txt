@@ -1,2 +1,3 @@
-User-agent: *
-Disallow: /
+User-agent: * 
+Allow: / 
+Sitemap: https://neu3ca.github.io/sitemap.xml

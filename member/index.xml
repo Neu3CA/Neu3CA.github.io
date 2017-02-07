@@ -6,8 +6,18 @@
     <description>Recent content in Member-rsses on Neu3CA</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Neu3CA, 2016 </copyright>
-    <lastBuildDate>Wed, 21 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://neu3ca.github.io/member/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stephan Heunis</title>
+      <link>https://neu3ca.github.io/member/stephan/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://neu3ca.github.io/member/stephan/</guid>
+      <description>&lt;p&gt;Stephan studied mechatronics and biomedical engineering at Stellenbosch University in South Africa, obtaining his M.Sc. in 2012. He worked for 4 years in two industries (Industrial Automation and Enterprise Mobility) before acknowledging the gravity of his calling: becoming a neuroscientist. His broad interest lies in using our increasing grasp and control of technology to help us understand and educate each other on the comparatively unknown realm of the human brain. More specifically and currently, Stephan is working on finding a way to use real time feedback from fMRI brain scans towards treating cognitive impairments in epilepsy patients.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Chris Baeken</title>
@@ -170,16 +180,6 @@
       
       <guid>https://neu3ca.github.io/member/bert/</guid>
       <description>&lt;p&gt;Professor Aldenkamp graduated in Groningen and was appointed Professor In Leiden in 1991 and in Amsterdam in 1998. Currently he holds the Chair of Epileptology and Neurocognition of Maastricht University Medical Centre (department of Neurology) and is Head of the Epilepsy Imaging Research Group of the Research School Mental Health and Neurosciences (MHeNS) of the University of Maastricht. In addition he is the Head of the Department of Behavioural Research of the Epilepsy centre Kempenhaeghe and vice-chairman of the Scientific Unit of the institute as well as member of the Strategic Board and the Central Management Team. He is currently the supervisor of 20 PhD students and finished more than 100 PhD studies. In addition: Visiting Professor of Epileptology, Universital Hospital Gent (Department of Neurology). Professor Aldenkamp is the Past Editor-in-Chief of the European Journal of Epileptology since 2012 and member of the Editorial Boards of medical journals such as: Epilepsy and Behaviour, Acta Neurologica Scandinavica and Clinical Neurology and neurosurgery. Member of the International Advisory Board of two Pharmaceutical companies. Member of the Dutch advisory Board for two pharmaceutical industries. Professor Aldenkamp has published more than 300 publications (including chapters) and gave about 500 international presentations (h-factor: 51). Since March 2013 he is appointed Professor at the University of Technology in Eindhoven faculty of Electrical Engineering, Signal Processing System group. He focusses on Brain MR-imaging and detailed processing of MR signals especially to understand processes of neurodegeneration.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Debby Klooster</title>
-      <link>https://neu3ca.github.io/member/debby/</link>
-      <pubDate>Wed, 14 Sep 2016 11:45:56 +0200</pubDate>
-      
-      <guid>https://neu3ca.github.io/member/debby/</guid>
-      <description>&lt;p&gt;Debby Klooster (1988) studied BioMedical Engineering at the Eindhoven University of Technology. During the master program, she went to Melbourne (Australia) for a three month internship in the clinical neurophysiology department headed by Prof. Cook (daily supervisor Dr. Vogrin) and she started to collaborate with Kempenhaeghe. Later she enrolled in a post-master program called Qualified Medical Engineering (PDEng, TU/e and Kempenhaeghe). During this two-year program, her interest in brain stimulation was triggered, mainly by a three month internship in the stimulation lab of Prof. Pascual-Leone in Boston (daily supervisor Dr. Shafi). In 2014, she started a PhD project focusing on the mechanism of action of transcranial magnetic stimulation (TMS). The project is a close collaboration between TU/e, Kempenhaeghe and the university hospital Ghent (Belgium) and is supervised by Prof. Aldenkamp en Prof. Boon.&lt;/p&gt;
 </description>
     </item>
     

@@ -6,8 +6,18 @@
     <description>Recent content on Neu3CA</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Neu3CA, 2016 </copyright>
-    <lastBuildDate>Wed, 21 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://neu3ca.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stephan Heunis</title>
+      <link>https://neu3ca.github.io/member/stephan/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://neu3ca.github.io/member/stephan/</guid>
+      <description>&lt;p&gt;Stephan studied mechatronics and biomedical engineering at Stellenbosch University in South Africa, obtaining his M.Sc. in 2012. He worked for 4 years in two industries (Industrial Automation and Enterprise Mobility) before acknowledging the gravity of his calling: becoming a neuroscientist. His broad interest lies in using our increasing grasp and control of technology to help us understand and educate each other on the comparatively unknown realm of the human brain. More specifically and currently, Stephan is working on finding a way to use real time feedback from fMRI brain scans towards treating cognitive impairments in epilepsy patients.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Chris Baeken</title>
@@ -203,16 +213,6 @@
 &lt;p&gt;Having robustly extracted the network structure from the data, the next step of this project is to combine network theoretical analysis with data mining and machine learning tools, in order to classify and cluster healthy brain connectivity patterns and brain patterns with some disorders. This may be used for sub-categorization of certain diseases (such as epilepsy), which may be relevant to develop tailored treatments.&lt;/p&gt;
 
 &lt;p&gt;This project relies on knowledge and expertise in signal processing, graph theory, physics and neurology.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>High field MRI in post-stroke epilepsy</title>
-      <link>https://neu3ca.github.io/project/highFieldPostStroke/</link>
-      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://neu3ca.github.io/project/highFieldPostStroke/</guid>
-      <description>&lt;p&gt;7T post-stroke epilepsy project; description by Rob Rouhl&lt;/p&gt;
 </description>
     </item>
     

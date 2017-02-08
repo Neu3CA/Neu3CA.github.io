@@ -6,8 +6,20 @@
     <description>Recent content on Neu3CA</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Neu3CA, 2016 </copyright>
-    <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://neu3ca.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Neu3CA in Epilepsy Magazine</title>
+      <link>https://neu3ca.github.io/post/Neu3CA_epilepsy_magazine_march_2017/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://neu3ca.github.io/post/Neu3CA_epilepsy_magazine_march_2017/</guid>
+      <description>&lt;p&gt;The official launch of the Neu&lt;sup&gt;3&lt;/sup&gt;CA brain research program was reported upon in the March issue of the Dutch Eilepsy Foundation&amp;rsquo;s Epilepsy Magazine!&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;centered&#34; src=&#34;https://neu3ca.github.io/img/Neu3CA_epilepsie_magazin_maart_2017.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 1000px;&#34;/&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Stephan Heunis</title>
@@ -200,20 +212,6 @@
       
       <guid>https://neu3ca.github.io/publication/Carrette_Seizure_2016/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Data-mining and graph analysis of EEG data</title>
-      <link>https://neu3ca.github.io/project/EEG_graph_datamining/</link>
-      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://neu3ca.github.io/project/EEG_graph_datamining/</guid>
-      <description>&lt;p&gt;In this project, the human brain is represented as a complex network, where brain regions are the nodes of that network and weighted links between each two nodes shows their synchronization and communication frequency. For this purpose, EEG or MEG are used for measuring the activity of different brain regions. For quantifying the relationship between the brain regions, there are a lot of synchronization measures that can be chosen; with the help of those measurements, the functional brain network can be constructed and then modern network science offers a lot of tools to analyze the brain and finding/localizing differences between patients and healthy control.&lt;/p&gt;
-
-&lt;p&gt;Having robustly extracted the network structure from the data, the next step of this project is to combine network theoretical analysis with data mining and machine learning tools, in order to classify and cluster healthy brain connectivity patterns and brain patterns with some disorders. This may be used for sub-categorization of certain diseases (such as epilepsy), which may be relevant to develop tailored treatments.&lt;/p&gt;
-
-&lt;p&gt;This project relies on knowledge and expertise in signal processing, graph theory, physics and neurology.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

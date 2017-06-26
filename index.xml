@@ -32,6 +32,26 @@
     </item>
     
     <item>
+      <title>Real-time fMRI neurofeedback</title>
+      <link>https://neu3ca.github.io/project/rtfMRINF/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://neu3ca.github.io/project/rtfMRINF/</guid>
+      <description>
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;A special application of &lt;a href=&#34;https://neu3ca.github.io/background/MRI&#34;&gt;functional MRI&lt;/a&gt; is real-time fMRI neurofeedback (rt-fMRI-NF). In this modality, fMRI is used to access brain activity while the subject is in the scanner, and a certain measure of brain activity is presented back to the subject. The idea is that if a subject is aware of his/her ongoing brain activity, he/she can be trained to influence it. Although not in routine clinical practice, encouraging results have been obtained with rt-fMRI-NF. For example, certain cases of depression are characterized by reduced left amygdala activity. Using rt-fMRI-NF, depressed subjects can be trained to upregulate left amygdala activity, and their clinical symptoms improve.&lt;/p&gt;
+
+&lt;h2 id=&#34;research-challenges&#34;&gt;Research challenges&lt;/h2&gt;
+
+&lt;p&gt;Within the &lt;a href=&#34;https://neu3ca.github.io/background/neu3ca&#34;&gt;Neu&lt;sup&gt;3&lt;/sup&gt;ca program&lt;/a&gt;  we are investigating rt-fMRI-NF as a way to mitigate cognitive impairment in &lt;a href=&#34;https://neu3ca.github.io/background/epilepsy&#34;&gt;epilepsy&lt;/a&gt;. Since complex brain functions such as cognition are typically mediated by brain networks (and not single regions), this includes implementing &lt;strong&gt;rt-fMRI-NF for networks&lt;/strong&gt; rather than stand-alone regions. Furthermore, we are looking for &lt;strong&gt;biomarkers of functional network impairment&lt;/strong&gt; that may be exploit for rt-fMRI-NF. Having identified these, they may be used to provide neurofeedback and to study the resulting &lt;strong&gt;changes in functional network organization&lt;/strong&gt; and &lt;strong&gt;clinical outcome&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Another important issue is the &lt;strong&gt;sustainability&lt;/strong&gt; of the effect; how many training sessions are needed in order to have an effect that extends the rt-fMRI-NF session (i.e. also outside the scanner)? And how can these changes be maintained; do subjects need to a new session of rt-fMRI-NF trainings every now and then? At what interval? Or can we maybe prolong the effect using &lt;strong&gt;ambulatory and/or less expensive modalities&lt;/strong&gt; that assess brain activity (EEG neurofeedback, fNIRS neurofeedback)?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Chris Baeken</title>
       <link>https://neu3ca.github.io/member/chrisbaeken/</link>
       <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
@@ -203,15 +223,6 @@
 
 &lt;p&gt;We believe that the concept of accelerated cognitive ageing can be helpful in providing a framework understanding global cognitive deterioration in epilepsy. Moreover due to the cascadic character of the deterioration trajectory (in a short time period) in these patients, it offers a very promising model to study ageing&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A prestimulation evaluation protocol for patients with drug resistant epilepsy.</title>
-      <link>https://neu3ca.github.io/publication/Carrette_Seizure_2016/</link>
-      <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://neu3ca.github.io/publication/Carrette_Seizure_2016/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -829,6 +829,56 @@
 
 <p>Having modelled the fields, we are interested in neurophysiology: how is the local neuronal activity modulated, what neuronal subtypes are actually affected, how do these local effects propagate into neuronal (micro)-circuits? We are also interested in how all this is affected by neuroplasticity, i.e. how neurostimulation causes (lasting) changes in brain network organization, and how (ultimately) these network alterations relate to clinical characteristics such as symptom improvement.</p>
 
+<h1 id="internship-graduation-project-description">Internship/ Graduation Project Description</h1>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>Transcranial Magnetic Stimulation is a brain stimulation technique that has been used for treatment purposes as well as for diagnostics since the mid nineteen-eighties, but the mechanism of action has not been fully understood. Many questions regarding the extent of the technique, the biochemical interaction between the fields and the neurons and the optimal treatment scheme are yet unanswered.</p>
+
+<p>This project will focus on one of the many enigmas that still cause debate in the scientific neurostimulation society: Does a low-intensity electric field still influence the firing pattern of a neuron?</p>
+
+<p>To answer this question, a series of experiments have been conducted in the Cellular and Systems Neurobiology group of the University of Amsterdam. Neurons were stimulated with a repeatable but noisy-looking signal, after which the firing pattern was recorded. An identical stimulation will trigger an identical response, enabling differential testing. So after measuring the firing pattern for the noisy signal, the experiment was repeated, this time while an external electric field was applied. The differences between the firing patterns under various conditions indicate whether and how big the influence of a field on neuronal behavior is.</p>
+
+<p>The results of the experiment described above need to be processed. To verify the conclusions drawn from testing, some models regarding the electric fields, the neuronal responses, and the material parameters need to be set up. This is the main topic of this graduation project (so it is not focused on doing experiments with neurons). The modelling is described in more detail below.</p>
+
+<h2 id="permittivity">Permittivity</h2>
+
+<p>While being tested in the ex-vivo set-up, the brain tissue is placed in a solution of salts and glucose. Since the ions are diluted (thus form an interaction with the water), it is impossible to calculate or estimate the dielectric properties (permittivity and conductivity) of the solution. Still, these properties greatly influence the electric field that will be created during the experiments, and thus the (modulation of the) neuronal response. Therefore, they need to be measured in the lab.</p>
+
+<p><img class="left" src="https://neu3ca.github.io/img/field_setup.jpg" alt="Drawing" style="width: 500px;"/></p>
+
+<p>For this part of the project, a measurement setup needs to be constructed, verified and tested. Next, the dielectric properties of samples of salty water will be tested for various temperatures and frequencies. The information that comes from these experiments will be used to set up the other models of this project.</p>
+
+<h2 id="electric-field-in-salty-water">Electric Field in Salty Water</h2>
+
+<p>During the experiment, the magnitude of the electric potential is measured at various positions in the water bath in which the brain slice is located. From this information, the electric field vectors are calculated.</p>
+
+<p><img class="left" src="https://neu3ca.github.io/img/Efield_sims.jpg" alt="Drawing" style="width: 500px;"/></p>
+
+<p>To verify these measurements, which are somewhat prone to deviations and errors, the experimental setup needs to be rebuilt in an EM simulation environment (preferably CST), so that inaccuracies and confounding factors can be assessed. Note that low-frequency simulations are not as standard as you think, since you often work with potentials rather than with actual fields. Still, this is an interesting part of the project, since you have to combine physics, mathematics and field work (pun intended).</p>
+
+<h2 id="neuronal-simulations">Neuronal Simulations</h2>
+
+<p>When there is more clarity about the fields that are active during the experiments, neuronal reactions can be simulated. NEURON is a standard simulation environment well suited for this purpose. You build a simple version of the neuron you wish to study (or, even better, find one in the many databases that are already there), after which you replicate the conditions in the simulation. The responses should be comparable with the responses the neurons generate during the experiment.</p>
+
+<p><img class="left" src="https://neu3ca.github.io/img/NEURON.jpg" alt="Drawing" style="width: 500px;"/></p>
+
+<p>This part focuses on creating a model that describes the neuronal response to an electric field. Luckily, a lot of information is already available.</p>
+
+<h2 id="furthermore">Furthermore</h2>
+
+<p>The three components described above are all part of your project (in case of an internship, only a subset of the topics will be covered). This, however, does not mean that your project will be restricted to this work only. New ideas, extra side quests, or the possibility to deepen a specific topic can all be discussed and fine-tuned.</p>
+
+<p>All three topics covered in this project require background knowledge. Supporting information will be provided, and you will have time to get familiar with the ideas and terminology.</p>
+
+<h2 id="supervision">Supervision</h2>
+
+<p>You will be supervised by dr. Rob Mestrom and Elles Raaijmakers MSc., both researchers at the EM group at TU/e. You will meet with us on a weekly or biweekly basis, and your progress will be discussed during these meetings. Next to that, a visit to the experimental setup in Amsterdam will be included and extra supervision will be given when working on the permittivity measurements (group house rules for students working in the lab).</p>
+
+<p>If you have further questions, please feel free to <a href="https://neu3ca.github.io/member/elles">contact us</a>.</p>
+
+<p><a href="https://www.tue.nl/en/university/departments/electrical-engineering/">Electrical Engineering</a></p>
+
         </div>
     
         

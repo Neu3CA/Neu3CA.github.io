@@ -6,34 +6,8 @@
     <description>Recent content on Neu3CA</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Neu3CA, 2016 </copyright>
-    <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://neu3ca.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Neu3CA at SUMMA symposium</title>
-      <link>https://neu3ca.github.io/post/Neu3CA_SUMMA/</link>
-      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://neu3ca.github.io/post/Neu3CA_SUMMA/</guid>
-      <description>&lt;p&gt;On June 20, the yearly SUMMA student symposium took place. &lt;a href=&#34;https://www.uu.nl/masters/selective-utrecht-medical-master-summa&#34;&gt;SUMMA&lt;/a&gt; stands for Selective Utrecht Medical Masters and is meant for student who want to become both a doctor and a researcher.&lt;/p&gt;
-
-&lt;p&gt;This year&amp;rsquo;s theme was &lt;a href=&#34;http://www.summasymposium.com/&#34;&gt;The Fountain of Youth&lt;/a&gt; and in that context, René spoke about &lt;em&gt;Aging brain networks&lt;/em&gt;. Interestingly, brain aging is not only about slowing down of neuronal processes and neurodegeneration. The brain remains plastic up until old age, and in diseases such as Alzheimer&amp;rsquo;s, the early phases may actually involve neuronal &lt;em&gt;over&lt;/em&gt; activity.&lt;/p&gt;
-
-&lt;p&gt;It was an fun session with lots of questions from the audience and an interesting discussion.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Neu3CA in Epilepsy Magazine</title>
-      <link>https://neu3ca.github.io/post/Neu3CA_epilepsy_magazine_march_2017/</link>
-      <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://neu3ca.github.io/post/Neu3CA_epilepsy_magazine_march_2017/</guid>
-      <description>&lt;p&gt;The official launch of the Neu&lt;sup&gt;3&lt;/sup&gt;CA brain research program was reported upon in the March issue of the Dutch Eilepsy Foundation&amp;rsquo;s Epilepsy Magazine!&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;centered&#34; src=&#34;https://neu3ca.github.io/img/Neu3CA_epilepsie_magazin_maart_2017.jpg&#34; alt=&#34;Drawing&#34; style=&#34;width: 1000px;&#34;/&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Stephan Heunis</title>
@@ -42,34 +16,6 @@
       
       <guid>https://neu3ca.github.io/member/stephan/</guid>
       <description>&lt;p&gt;Stephan studied mechatronics and biomedical engineering at Stellenbosch University in South Africa, obtaining his M.Sc. in 2012. He worked for 4 years in two industries (Industrial Automation and Enterprise Mobility) before acknowledging the gravity of his calling: becoming a neuroscientist. His broad interest lies in using our increasing grasp and control of technology to help us understand and educate each other on the comparatively unknown realm of the human brain. More specifically and currently, Stephan is working on finding a way to use real time feedback from fMRI brain scans towards treating cognitive impairments in epilepsy patients.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Real-time fMRI neurofeedback</title>
-      <link>https://neu3ca.github.io/project/rtfMRINF/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://neu3ca.github.io/project/rtfMRINF/</guid>
-      <description>
-
-&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
-
-&lt;p&gt;A special application of &lt;a href=&#34;https://neu3ca.github.io/background/MRI&#34;&gt;functional MRI&lt;/a&gt; is real-time fMRI neurofeedback (rt-fMRI-NF). In this modality, fMRI is used to access brain activity while the subject is in the scanner, and a certain measure of brain activity is presented back to the subject. The idea is that if a subject is aware of his/her ongoing brain activity, he/she can be trained to influence it. Although not in routine clinical practice, encouraging results have been obtained with rt-fMRI-NF. For example, certain cases of depression are characterized by reduced left amygdala activity. Using rt-fMRI-NF, depressed subjects can be trained to upregulate left amygdala activity, and their clinical symptoms improve.&lt;/p&gt;
-
-&lt;p&gt;The video below explains our approach towards real-time fMRI analysis and its potential application for neurofeedback:&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/eOShxcraaUU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;h2 id=&#34;research-challenges&#34;&gt;Research challenges&lt;/h2&gt;
-
-&lt;p&gt;Within the &lt;a href=&#34;https://neu3ca.github.io/background/neu3ca&#34;&gt;Neu&lt;sup&gt;3&lt;/sup&gt;ca program&lt;/a&gt;  we are investigating rt-fMRI-NF as a way to mitigate cognitive impairment in &lt;a href=&#34;https://neu3ca.github.io/background/epilepsy&#34;&gt;epilepsy&lt;/a&gt;. Since complex brain functions such as cognition are typically mediated by brain networks (and not single regions), this includes implementing &lt;strong&gt;rt-fMRI-NF for networks&lt;/strong&gt; rather than stand-alone regions. Furthermore, we are looking for &lt;strong&gt;biomarkers of functional network impairment&lt;/strong&gt; that may be exploit for rt-fMRI-NF. Having identified these, they may be used to provide neurofeedback and to study the resulting &lt;strong&gt;changes in functional network organization&lt;/strong&gt; and &lt;strong&gt;clinical outcome&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Another important issue is the &lt;strong&gt;sustainability&lt;/strong&gt; of the effect; how many training sessions are needed in order to have an effect that extends the rt-fMRI-NF session (i.e. also outside the scanner)? And how can these changes be maintained; do subjects need to a new session of rt-fMRI-NF trainings every now and then? At what interval? Or can we maybe prolong the effect using &lt;strong&gt;ambulatory and/or less expensive modalities&lt;/strong&gt; that assess brain activity (EEG neurofeedback, fNIRS neurofeedback)?&lt;/p&gt;
 </description>
     </item>
     
@@ -224,6 +170,70 @@
       
       <guid>https://neu3ca.github.io/member/wytse/</guid>
       <description>&lt;p&gt;Wytse Wadman studied experimental physics in Utrecht, Delft, and London, and has a PhD on human motor system control. After post-docs in München, Israel and the USA, he works since 1989 as a professor of Neuroscience at the University of Amsterdam. Since 2005, he is also guest professor at the Faculty of Medicine in Ghent. His research group performs fundamental research of brain processes related to learning and memory, and diseases such as epilpesy, schizophrenia and Alzheimer&amp;rsquo;s disease. Besides that, computational models are being developed and collaborations with industrial partners are maintained.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accelerated cognitive aging</title>
+      <link>https://neu3ca.github.io/background/ACA_old/</link>
+      <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://neu3ca.github.io/background/ACA_old/</guid>
+      <description>
+
+&lt;h3 id=&#34;accelerated-cognitive-aging&#34;&gt;Accelerated cognitive aging&lt;/h3&gt;
+
+&lt;p&gt;A long-standing concern has been whether epilepsy contributes to cognitive decline or so-called ‘epileptic dementia’. Although global cognitive decline is generally reported in the context of chronic refractory epilepsy (i.e. epilepsy that does not respond to medication), it is largely unknown what percentage of patients is at risk for decline.&lt;/p&gt;
+
+&lt;p&gt;Recent interest is  focused on the identification of risk factors and characterization of aberrant cognitive trajectories in epilepsy. Evidence is found that the cognitive trajectory of patients with epilepsy over time differs from processes of cognitive ageing in healthy people, especially in adulthood-onset epilepsy.&lt;/p&gt;
+
+&lt;p&gt;Cognitive deterioration in these patients seems to develop in a ‘second hit model’ and occurs when epilepsy hits on a brain that is already vulnerable or vice versa when comorbid problems develop in a person with epilepsy. Processes of ageing may be accelerated due to loss of brain plasticity and cognitive reserve capacity for which we coin the term ‘accelerated cognitive ageing’.&lt;/p&gt;
+
+&lt;p&gt;We believe that the concept of accelerated cognitive ageing can be helpful in providing a framework understanding global cognitive deterioration in epilepsy. Moreover due to the cascadic character of the deterioration trajectory (in a short time period) in these patients, it offers a very promising model to study ageing&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About epilepsy</title>
+      <link>https://neu3ca.github.io/background/epilepsy/</link>
+      <pubDate>Mon, 03 Oct 2016 15:50:58 +0200</pubDate>
+      
+      <guid>https://neu3ca.github.io/background/epilepsy/</guid>
+      <description>
+
+&lt;h3 id=&#34;epilepsy&#34;&gt;Epilepsy&lt;/h3&gt;
+
+&lt;p&gt;Epilepsy is a neurological disorder that affects 1-2% of the population, and is characterized by recurrent spontaneous seizures and corresponding abnormalities in the electroencephalogram (&lt;a href=&#34;https://en.wikipedia.org/wiki/Electroencephalography&#34;&gt;EEG&lt;/a&gt;). The nature of the seizures may vary greatly, from short spells of freezing and staring in childhood absence epilepsy, to dramatic tonic-clonic seizures in adults, involving falling to the ground and jerking of the limbs. Not only the type of seizures differs greatly between subjects, but also the seizure frequency (from several seizures per day to e.g. one per year).&lt;/p&gt;
+
+&lt;h4 id=&#34;cortical-hyperexcitability&#34;&gt;Cortical hyperexcitability&lt;/h4&gt;
+
+&lt;p&gt;Epileptic seizures are caused by a problem in the regulation of brain activity; more specifically, an &lt;strong&gt;imbalance between brain excitation and inhibition&lt;/strong&gt;. During a seizure, the brain cortex becomes hyperactive in such a way that normal information processing is temporally disrupted. The nature of the seizure depends on what part of the brain is involved (which area of the brain, and how big it is).&lt;/p&gt;
+
+&lt;h4 id=&#34;treatments-and-risks&#34;&gt;Treatments and risks&lt;/h4&gt;
+
+&lt;p&gt;Epilepsy may be treated using &lt;strong&gt;anti-epileptic drugs (AEDs)&lt;/strong&gt;, which restore the balance between brain excitation and inhibition (i.e. away from hyperexcitability). In doing so, they may suppress overall brain activity and thus in turn actually &lt;em&gt;cause&lt;/em&gt; cognitive problems. Similarly, epileptic seizures (and ongoing abnormal brain activity in between seizures) may compromise brain function as well. This means that in treating epilepsy using AEDs, in close consultation between doctor and patient, a careful trade-off should be made between sufficient seizure suppression on the one hand, and preservation of brain function and cognition on the other hand.&lt;/p&gt;
+
+&lt;p&gt;Not every patient achieves sufficient seizure freedom on AEDs. Chances for treatment success actually drop with every next AED that is tried, and are virtually zero already for the 4th drug. Patients for whom drug treatment is unsuccessful may be eligible for &lt;strong&gt;epilepsy surgery&lt;/strong&gt;, in which the part of the brain that triggers the seizures (the so-called epileptic focus) is removed. This procedure is only possible if the epileptic focus can be well identified (e.g. well visible on MR scans), and always holds a risk for damaging surrounding brain tissue, thus compromising brain function.&lt;/p&gt;
+
+&lt;h4 id=&#34;cognitive-comorbidity&#34;&gt;Cognitive comorbidity&lt;/h4&gt;
+
+&lt;p&gt;Taken together, although maybe not broadly known, cognitive problems are an important aspect of epilepsy and concern both the disease itself, as well as its treatment. It is estimated that about half the epilepsy patients suffer from cognitive problems to a certain extent, and this accounts for about half the disease burden. A specific form of cognitive impairment which receives special attention within the Neu&lt;sup&gt;3&lt;/sup&gt;CA program, is &lt;a href=&#34;https://neu3ca.github.io/background/ACA&#34;&gt;accelerated cognitive aging&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://neu3ca.github.io/background/neu3ca&#34;&gt;Neu&lt;sup&gt;3&lt;/sup&gt;ca brain research program&lt;/a&gt; aims to better understand how the cognitive problems of epilepsy are caused and how they may be treated or prevented. We think it is &lt;a href=&#34;https://neu3ca.github.io/aims/aims&#34;&gt;important to gain awareness&lt;/a&gt; of this less well known aspect of epilepsy, since cognitive well-being is essential for societal and job participation as well as for quality-of-life.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>General background links</title>
+      <link>https://neu3ca.github.io/background/background_general/</link>
+      <pubDate>Mon, 03 Oct 2016 15:50:58 +0200</pubDate>
+      
+      <guid>https://neu3ca.github.io/background/background_general/</guid>
+      <description>
+
+&lt;h3 id=&#34;general-background&#34;&gt;General background&lt;/h3&gt;
+
+&lt;p&gt;Check out the following pages if you&amp;rsquo;d like to learn more about &lt;a href=&#34;https://neu3ca.github.io/background/ACA&#34;&gt;accelerated cognitive aging&lt;/a&gt;, &lt;a href=&#34;https://neu3ca.github.io/background/epilepsy&#34;&gt;epilepsy&lt;/a&gt;, &lt;a href=&#34;https://neu3ca.github.io/background/MRI&#34;&gt;MRI&lt;/a&gt;, &lt;a href=&#34;https://neu3ca.github.io/background/neuronal_networks&#34;&gt;neuronal networks&lt;/a&gt; or &lt;a href=&#34;https://neu3ca.github.io/background/neuromodulation&#34;&gt;neuromodulation&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
